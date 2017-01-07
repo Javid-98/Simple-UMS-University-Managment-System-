@@ -1,1 +1,1 @@
-# Simple-UMS-University-Managment-System-
+# Simple UMS (University Managment System)
