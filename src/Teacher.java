@@ -34,8 +34,7 @@ public class Teacher extends Person {
     public Teacher(String name, String surname, int id, String password) {
         super(name, surname, id, password);
         lessonListTeacher = new ArrayList<>();
-        University.listTeacher.add(this);
-    }
+      }
 
     public String printTranscriptT() {
 
